@@ -1,5 +1,5 @@
 import React, { useState, ReactNode, Key } from "react"
-import cities from "../citylist.json"
+import cities from "../public/citylist.json"
 import Link from "next/link"
 
 const SearchBox = (props: any) => {
