@@ -36,7 +36,7 @@ const SearchBox = (props: any) => {
 
 		if (value.length > 3) {
 			for (const index in cities) {
-				const city: City = cities[index as keyof typeof cities]
+				const city: any = cities[index as keyof typeof cities]
 				if (matches?.length >= 5) {
 					break
 				}
