@@ -1,7 +1,7 @@
 import Head from "next/head"
 import React from "react"
 import { Key } from "react"
-import cities from "../../data/city.list.json"
+import cities from "../../citylist.json"
 import CurrentWeather from "../../components/CurrentWeather"
 import HourlyWeather from "../../components/HourlyWeather"
 import WeeklyWeather from "../../components/WeeklyWeather"

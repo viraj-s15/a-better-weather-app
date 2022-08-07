@@ -1,5 +1,5 @@
 import React, { useState, ReactNode, Key } from "react"
-import cities from "../data/city.list.json"
+import cities from "../citylist.json"
 import Link from "next/link"
 
 const SearchBox = (props: any) => {
@@ -11,17 +11,6 @@ const SearchBox = (props: any) => {
 		country: ReactNode
 		connected: boolean
 		type: string[]
-	}
-
-	interface City {
-		id: Key
-		name: string
-		state: string
-		country: string
-		coor: {
-			lon: number
-			lat: number
-		}
 	}
 
 	const [typed, setTyped] = useState<any>("")
