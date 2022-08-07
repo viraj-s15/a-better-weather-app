@@ -1,3 +1,22 @@
+
+## <a href="https://a-better-weather-app.vercel.app">Here is a live demo</a>
+### PS: Open it on a desktop
+
+## I did say I would make a better weather app once I knew how to
+
+## Here are a few images
+
+![1](https://user-images.githubusercontent.com/79002760/183284136-a72d6644-4882-4350-a006-f43bc013183f.png)
+
+![2](https://user-images.githubusercontent.com/79002760/183284142-6a58c2db-6ad4-4029-9133-a243695cab94.png)
+
+![3](https://user-images.githubusercontent.com/79002760/183284144-325c4a0e-c8f6-408e-ab4e-547b1d82bbdf.png)
+
+![4](https://user-images.githubusercontent.com/79002760/183284150-6cc00608-7702-4649-9e3d-2a5c2719c2a5.png)
+
+## This is the one I plan on expanding
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
