@@ -1,5 +1,6 @@
 
 ## <a href="https://a-better-weather-app.vercel.app">Here is a live demo</a>
+### PS: Open it on a desktop
 
 ## I did say I would make a better weather app once I knew how to
 
