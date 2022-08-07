@@ -58,7 +58,7 @@ export async function getServerSideProps(context: any) {
 		}
 		if (description.includes("haze")) {
 			backVid =
-				"https://stream.mux.com/WsyIGglHWuSj6sHby1t9Qm4SmPZafWwi/high.mp4?token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InQ5UHZucm9ZY0hQNjhYSmlRQnRHTEVVSkVSSXJ0UXhKIn0.eyJleHAiOjE2NTk4MTAxNTEsImF1ZCI6InYiLCJzdWIiOiJXc3lJR2dsSFd1U2o2c0hieTF0OVFtNFNtUFphZld3aSJ9.Yw71Qkz2dvSz2lj8U864ySXFg-TF54R3699QT2pdpdcaPBQ73jcC-42yI6kNgUNaN4hT30-4B2JX8AMcuqD_QN2bjuXRHtGsye5SlIQ0UmvUnZbnzvX9TylkfRwOyp8fL7UMna3Xo613k9hIi-aCd1XxgoLhVOZN7lylxPLc_3sVO9YmLxvHZo9gu1IwYaXe1TFqYMeIK-9MTLdNyqS93qeE_JG_iSGP_If83fj8KyrG3D2lu98VgKHYijz-BJAXqcfGfbfBdrXJUG34ivtfpEM4WQe8jLgIxuKlheYmQ4YUv9p2C1ulYDsyVRTHFednShN1nvdpUyrq5n646TryBw"
+				"https://storage.coverr.co/videos/ujWFw1J4aK8mr201ak02KjiRZn02it8Kx8I?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6Ijg3NjdFMzIzRjlGQzEzN0E4QTAyIiwiaWF0IjoxNjU5ODYzNjA4fQ.jtAxjctBsCUgucUw0747mRegJLdoDUSIV3oWvoFEbLg"
 		}
 		if (description.includes("mist")) {
 			backVid =
