@@ -3,7 +3,6 @@ import moment from "moment-timezone"
 import Image from "next/image"
 
 const HourlyWeather = (props: any) => {
-	console.log(props.weather[0].weather[0].description)
 	return (
 		<div className='hourly-weather'>
 			<div className='hourly-content'>
